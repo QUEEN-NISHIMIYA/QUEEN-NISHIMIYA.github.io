@@ -15,6 +15,8 @@
 <a href="https://t.me/IZUMIE_XENPAI"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="https://chat.whatsapp.com/BMteXcNZwX0IEOd0MeSaHO"><img src="https://img.shields.io/badge/WhatsApp Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
 <a href="https://www.instagram.com/shammee_m"><img src="https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
+    <a href="https://wa.me/918593848438?text=_៚𝙷𝚎𝚢+𝙸𝚉𝚄𝙼𝙸𝙴+𝚇𝙴𝙽𝙿𝙰𝙸_"><img src="https://te.legra.ph/file/c890c7e257ef0ee7023d1.jpg" alt="WHATSAPP NUMBER"  style="width: 30%;"></a>
+        
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
