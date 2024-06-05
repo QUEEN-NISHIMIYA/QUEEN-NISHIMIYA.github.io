@@ -18,7 +18,7 @@
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  Here is The output deployed in vercel👇🏻
+  Here is The output deployed in vercel👉🏻
         <a href="https://izumie-xenpai.vercel.app"><img src="https://te.legra.ph/file/f7a4431b531210bbf035d.jpg" alt="OUTPUT"  style="width: 30%;"></a>
         
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
